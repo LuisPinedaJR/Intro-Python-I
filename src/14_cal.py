@@ -44,7 +44,6 @@ elif len(args) == 1:
     year = datetime.now().year
 elif len(args) == 2:
         
-    
 else:
     print("usage statement")
     
